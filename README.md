@@ -1,2 +1,1 @@
 # GFG-Questions
- .exe
