@@ -1,5 +1,0 @@
-1. "https://practice.geeksforgeeks.org/problems/print-all-possible-strings/1"
-2. "https://practice.geeksforgeeks.org/problems/game-of-death-in-a-circle/0"
-3. "https://practice.geeksforgeeks.org/problems/next-happy-number/0"
-4. "https://practice.geeksforgeeks.org/problems/josephus-problem/1"
-5. ""
